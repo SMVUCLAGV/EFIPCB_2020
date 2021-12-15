@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=Net1_21/DAC0 Pin=1-21/DAC0
+Added Pin To Net: NetName=Net1_21/DAC0 Pin=R10-7
+Added Pin To Net: NetName=Net1_21/DAC0 Pin=SW2-4
+Added Net: Name=Net1_21/DAC0
+Added Pin To Net: NetName=Net1_35/A16 Pin=1-35/A16
+Added Pin To Net: NetName=Net1_35/A16 Pin=R10-1
+Added Pin To Net: NetName=Net1_35/A16 Pin=SW2-1
+Added Net: Name=Net1_35/A16
+Added Pin To Net: NetName=Net1_36/A17 Pin=1-36/A17
+Added Pin To Net: NetName=Net1_36/A17 Pin=R10-3
+Added Pin To Net: NetName=Net1_36/A17 Pin=SW2-2
+Added Net: Name=Net1_36/A17
+Added Pin To Net: NetName=Net1_39/A20 Pin=1-39/A20
+Added Pin To Net: NetName=Net1_39/A20 Pin=R10-5
+Added Pin To Net: NetName=Net1_39/A20 Pin=SW2-3
+Added Net: Name=Net1_39/A20

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Net1_35/A16 Pin=R10-1
+Removed Pin From Net: NetName=Net1_36/A17 Pin=R10-3
+Removed Pin From Net: NetName=Net1_39/A20 Pin=R10-5
+Removed Pin From Net: NetName=Net1_21/DAC0 Pin=R10-7
+Removed Pin From Net: NetName=Net1_35/A16 Pin=SW2-1
+Removed Pin From Net: NetName=Net1_36/A17 Pin=SW2-2
+Removed Pin From Net: NetName=Net1_39/A20 Pin=SW2-3
+Removed Pin From Net: NetName=Net1_21/DAC0 Pin=SW2-4
+Added Pin To Net: NetName=Net1_21/DAC0 Pin=R10-1
+Added Pin To Net: NetName=Net1_39/A20 Pin=R10-3
+Added Pin To Net: NetName=Net1_36/A17 Pin=R10-5
+Added Pin To Net: NetName=Net1_35/A16 Pin=R10-7
+Added Pin To Net: NetName=Net1_21/DAC0 Pin=SW2-1
+Added Pin To Net: NetName=Net1_39/A20 Pin=SW2-2
+Added Pin To Net: NetName=Net1_36/A17 Pin=SW2-3
+Added Pin To Net: NetName=Net1_35/A16 Pin=SW2-4

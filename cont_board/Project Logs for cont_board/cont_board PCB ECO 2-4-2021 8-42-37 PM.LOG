@@ -1,0 +1,18 @@
+Added Component: Designator=SW2(DS04-254-2-04BK-SMT-TR)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DS04-254-2-04BK-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.66000, 10=0.63400, 25=0.61120, 100=0.52880, 250=0.48176 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "183"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2223-DS04-254-2-04BK-SMT-CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1_3/CANTX Pin=SW2-1
+Added Pin To Net: NetName=Net1_4/CANRX Pin=SW2-2
+Added Pin To Net: NetName=Net1_5 Pin=SW2-3
+Added Pin To Net: NetName=Net1_6 Pin=SW2-4
+Added Pin To Net: NetName=3V3_1 Pin=SW2-5
+Added Pin To Net: NetName=3V3_1 Pin=SW2-6
+Added Pin To Net: NetName=3V3_1 Pin=SW2-7
+Added Pin To Net: NetName=3V3_1 Pin=SW2-8
+Added Member To Class: ClassName=cont_board Member=Component SW2 DIP 4 SWITCH
+Added Room: Name=cont_board

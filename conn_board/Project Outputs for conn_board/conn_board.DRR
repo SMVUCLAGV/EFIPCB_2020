@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: conn_board.PcbDoc   2/4/2021  9:59:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : conn_board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             72        PTH        0.00inch (0.00mm)
+T2      30mil (0.749mm)         +5mil (0.13mm)/-3mil (0.08mm)     Round             2         PTH        0.00inch (0.00mm)
+T3      35mil (0.899mm)         +5mil (0.13mm)/-3mil (0.08mm)     Round             4         PTH        0.00inch (0.00mm)
+T4      35mil (0.899mm)                                           Round             22        PTH        0.00inch (0.00mm)
+T5      41mil (1.049mm)         +5mil (0.13mm)/-3mil (0.08mm)     Round             24        PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)           +5mil (0.13mm)/-3mil (0.08mm)     Round             2         PTH        0.00inch (0.00mm)
+T7      71mil (1.801mm)         +5mil (0.13mm)/-3mil (0.08mm)     Round             6         PTH        0.00inch (0.00mm)
+T8      73mil (1.849mm)         +5mil (0.13mm)/-3mil (0.08mm)     Round             5         PTH        0.00inch (0.00mm)
+T9      118mil (3mm)            +5mil (0.13mm)/-3mil (0.08mm)     Round             3         NPTH       0.00inch (0.00mm)
+T10     244mil (6.2mm)          +5mil (0.13mm)/-3mil (0.08mm)     Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              142
+
+Two holes at same point : 5
+-----------------------
+650,1969
+150,2054
+150,2254
+650,2339
+650,2154
+
+Total Processing Time (hh:mm:ss) : 00:00:00
